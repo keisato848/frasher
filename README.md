@@ -1,24 +1,22 @@
-# README
+## Who
+教師、塾講師等、フラッシュカードを使用して、指導するもの
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## What
+フラッシュカードの登録、参照アプリ
+## When
+要件定義 ~6/9
+基本設計 ~6/15
+コーディング ~7/15
+リファクタリング　~7/31
+## Why
+教育現場の負担
+ドキュメントのバージョン管理
 
-Things you may want to cover:
+## システム構成図
 
-* Ruby version
+## 背景
 
-* System dependencies
+## ユーザーフロー
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## テスト
+rspecで記述（各機能実装時に単体・結合テスト実行）
